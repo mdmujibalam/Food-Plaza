@@ -1,3 +1,3 @@
 # Food-Plaza
 
-#Demo video link: https://drive.google.com/drive/folders/1lwwTF8qGU7EgYrK17EvrwxDrrDsvT2Ny?usp=sharing
+#Demo video link: https://drive.google.com/file/d/1iHT-vYC3JVc0cwE-DY98kezYKc0S3vSd/view?usp=sharing
